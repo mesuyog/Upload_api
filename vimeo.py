@@ -14,4 +14,4 @@ assert about_me.status_code == 200
 
 vimeo_authorization_url = V.auth_url(['public'], ['private'], 'https:example.com')
 
-video_uri = V.upload('F:\photoes\Mobile camera/video-2014-09-21-11-13-58.mp4')
+video_uri = V.upload('C:\Users\Sakuragi-Kun\Desktop\my.mp4')
